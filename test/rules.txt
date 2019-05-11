@@ -1,0 +1,10 @@
+Rules of the game are as follows:
+1. The game starts with user getting 1000INR
+2. Each button click generates a number.
+3. If the number generated are all equal and even then the user gets 1000INR(for example 222 gives 1000INR).
+4. If the number generated are all equal and odd then the user gets 1000INR(for example 333 gives 1000INR).
+5. If the number generated are consecutive then the user gets 800INR(for example 234 gives 800INR).
+6. If the number generated has all its digits even then the user gets a bonus of 300INR.
+7. If the number generated has all its digits odd then the user gets a bonus of 300INR.
+8. Each chance costs 100INR.
+9. The game is over, if the total balance gets less than 100.
